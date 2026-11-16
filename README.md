@@ -1,12 +1,39 @@
-# Material 3 Expressive Skill
+<p align="center">
+  <img src="assets/expressive_icon.svg" width="88" alt="Material 3 Expressive icon">
+</p>
 
-A production-minded Agent Skill for designing, implementing, and reviewing interfaces with **Material 3 Expressive (M3 Expressive)**.
+<h1 align="center">Material 3 Expressive Skill</h1>
 
-The goal is not to make every screen louder or merely add rounded shapes. The skill helps an AI agent make deliberate product, interaction, accessibility, and engineering decisions — then use expressive design where it improves hierarchy, recognition, feedback, or emotional clarity.
+<p align="center">
+  A production-minded Agent Skill for designing, implementing, and reviewing<br>
+  interfaces with <strong>Material 3 Expressive</strong>.
+</p>
 
-[![Validate skill](https://github.com/asimawdah/material-expressive-skill/actions/workflows/validate.yml/badge.svg)](https://github.com/asimawdah/material-expressive-skill/actions/workflows/validate.yml)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-5B6DCD)](https://agentskills.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <a href="https://github.com/asimawdah/material-expressive-skill/actions/workflows/validate.yml"><img src="https://github.com/asimawdah/material-expressive-skill/actions/workflows/validate.yml/badge.svg" alt="Validate skill"></a>
+  <a href="https://agentskills.io/"><img src="https://img.shields.io/badge/Agent%20Skills-compatible-5B6DCD" alt="Agent Skills compatible"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
+</p>
+
+<p align="center">
+  <video controls playsinline preload="metadata" poster="assets/Introducing-Material-3-Expressive.jpg" width="100%">
+    <source src="assets/Introducing-Material-3-Expressive.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</p>
+
+<p align="center">
+  <sub>Explore the visual direction · <a href="assets/Introducing-Material-3-Expressive.mp4">Open the video directly</a></sub>
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> ·
+  <a href="#what-it-helps-with">Capabilities</a> ·
+  <a href="SKILL.md">Read the skill</a> ·
+  <a href="#documentation">Documentation</a>
+</p>
+
+> **Express with intent.** This skill helps an AI agent make deliberate product, interaction, accessibility, and engineering decisions — using expressive design where it improves hierarchy, recognition, feedback, or emotional clarity, not just to make screens louder or rounder.
 
 ## What it helps with
 
@@ -74,6 +101,10 @@ material-expressive-skill/
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE
+├── assets/
+│   ├── expressive_icon.svg
+│   ├── Introducing-Material-3-Expressive.jpg
+│   └── Introducing-Material-3-Expressive.mp4
 ├── references/
 │   ├── expressive-principles.md
 │   ├── design-foundations.md
