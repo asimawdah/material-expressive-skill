@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="assets/Introducing-Material-3-Expressive.mp4">
+  <a href="https://youtu.be/M8OkHgELmmI">
     <img src="assets/Introducing-Material-3-Expressive.jpg" alt="Watch the Material 3 Expressive introduction video" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <sub>Click the cover to watch the video on GitHub.</sub>
+  <sub>Click the cover to watch the video on YouTube.</sub>
 </p>
 
 <p align="center">
@@ -102,8 +102,7 @@ material-expressive-skill/
 ├── LICENSE
 ├── assets/
 │   ├── expressive_icon.svg
-│   ├── Introducing-Material-3-Expressive.jpg
-│   └── Introducing-Material-3-Expressive.mp4
+│   └── Introducing-Material-3-Expressive.jpg
 ├── references/
 │   ├── expressive-principles.md
 │   ├── design-foundations.md
