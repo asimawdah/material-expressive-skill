@@ -16,14 +16,13 @@
 </p>
 
 <p align="center">
-  <video controls playsinline preload="metadata" poster="assets/Introducing-Material-3-Expressive.jpg" width="100%">
-    <source src="assets/Introducing-Material-3-Expressive.mp4" type="video/mp4">
-    Your browser does not support embedded video.
-  </video>
+  <a href="assets/Introducing-Material-3-Expressive.mp4">
+    <img src="assets/Introducing-Material-3-Expressive.jpg" alt="Watch the Material 3 Expressive introduction video" width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <sub>Explore the visual direction · <a href="assets/Introducing-Material-3-Expressive.mp4">Open the video directly</a></sub>
+  <sub>Click the cover to watch the video on GitHub.</sub>
 </p>
 
 <p align="center">
