@@ -85,6 +85,8 @@ material-expressive-skill/
 │   ├── implementation-workflow.md
 │   ├── review-checklist.md
 │   └── official-sources.md
+├── examples/
+│   └── expressive-task-list.md
 ├── templates/
 │   ├── design-brief.md
 │   └── implementation-handoff.md
@@ -127,7 +129,7 @@ Start with [SKILL.md](SKILL.md), then open the references relevant to the task:
 - [Review checklist](references/review-checklist.md)
 - [Official sources and version verification](references/official-sources.md)
 
-Reusable planning documents are available in [templates/](templates/).
+See the [expressive task-list walkthrough](examples/expressive-task-list.md) for a practical design decision example. Reusable planning documents are available in [templates/](templates/).
 
 ## Validate locally
 
